@@ -5,7 +5,7 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 
-TetrisTower/Library
+TetrisTower/Library/*
 
 # Visual Studio 2015 cache directory
 /.vs/
